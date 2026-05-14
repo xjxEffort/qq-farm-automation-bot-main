@@ -56,6 +56,9 @@ function getLandStatusClass(land: any) {
     case 4: // 金土地
       baseClass = 'bg-amber-100/80 dark:bg-amber-900/20 border-amber-300 dark:border-amber-600'
       break
+    case 5: // 紫土地
+      baseClass = 'bg-purple-100/80 dark:bg-purple-900/20 border-purple-300 dark:border-purple-600'
+      break
   }
 
   // 状态叠加
@@ -98,6 +101,7 @@ function getLandTypeName(level: number) {
     2: '红土地',
     3: '黑土地',
     4: '金土地',
+    5: '紫土地',
   }
   return typeMap[Number(level) || 0] || ''
 }

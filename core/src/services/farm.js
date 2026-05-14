@@ -307,6 +307,7 @@ const FERTILIZER_LAND_TYPE_LABELS = {
     black: '黑土地',
     red: '红土地',
     normal: '普通土地',
+    purple: '紫土地',
 };
 
 function getLandTypeByLevel(level) {

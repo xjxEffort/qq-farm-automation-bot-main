@@ -503,6 +503,7 @@ const fertilizerLandTypeOptions = [
   { label: '黑土地', value: 'black' },
   { label: '红土地', value: 'red' },
   { label: '普通土地', value: 'normal' },
+  { label: '紫土地', value: 'purple' },
 ]
 
 function normalizeFertilizerLandTypes(input: unknown) {
