@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-14",
+  "date": "2026-05-15",
   "operations": {
     "harvest": 0,
     "water": 0,
@@ -7,12 +7,12 @@
     "bug": 0,
     "fertilize": 0,
     "plant": 0,
-    "steal": 28,
-    "helpWater": 0,
-    "helpWeed": 1,
-    "helpBug": 0,
-    "taskClaim": 0,
-    "sell": 3,
+    "steal": 53,
+    "helpWater": 64,
+    "helpWeed": 484,
+    "helpBug": 369,
+    "taskClaim": 3,
+    "sell": 4,
     "upgrade": 0,
     "levelUp": 0
   },
@@ -21,5 +21,5 @@
     "exp": 27131326,
     "coupon": 1794
   },
-  "savedAt": 1778772159054
+  "savedAt": 1778775531675
 }

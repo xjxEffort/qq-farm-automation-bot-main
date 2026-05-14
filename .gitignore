@@ -10,7 +10,11 @@ out/
 lib/
 coverage/
 core/date/
-
+core/date/store.json
+core/data/known_filend_friends_gids/1.json
+core/data/known_filend_friends_gids/2.json
+core/data/stats/1.json
+core/data/stats/2.json
 
 # 日志
 npm-debug.log*
