@@ -9,8 +9,8 @@
     "plant": 0,
     "steal": 53,
     "helpWater": 64,
-    "helpWeed": 484,
-    "helpBug": 369,
+    "helpWeed": 485,
+    "helpBug": 370,
     "taskClaim": 3,
     "sell": 4,
     "upgrade": 0,
@@ -21,5 +21,5 @@
     "exp": 27131326,
     "coupon": 1794
   },
-  "savedAt": 1778775531675
+  "savedAt": 1778775549523
 }
