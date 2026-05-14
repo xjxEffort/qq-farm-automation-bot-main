@@ -2,17 +2,31 @@
   "accounts": [
     {
       "id": "1",
-      "name": "账号1",
-      "code": "92b050d578b26c66b5ead7fd9d49c694",
+      "name": "大号",
+      "code": "673d1b8160eb4128aba11172060bad14",
       "platform": "qq",
       "uin": "",
       "qq": "",
       "avatar": "",
       "username": "admin",
       "createdAt": 1778771102518,
-      "updatedAt": 1778771239577,
-      "nick": "。"
+      "updatedAt": 1778771612079,
+      "nick": "。",
+      "loginType": "manual"
+    },
+    {
+      "id": "2",
+      "name": "小号",
+      "code": "f4c22847a820f966d05e49886777f431",
+      "platform": "qq",
+      "uin": "",
+      "qq": "",
+      "avatar": "",
+      "username": "admin",
+      "createdAt": 1778771826859,
+      "updatedAt": 1778771827374,
+      "nick": "落"
     }
   ],
-  "nextId": 2
+  "nextId": 3
 }

@@ -7,19 +7,19 @@
     "bug": 0,
     "fertilize": 0,
     "plant": 0,
-    "steal": 28,
-    "helpWater": 0,
-    "helpWeed": 1,
-    "helpBug": 0,
+    "steal": 5,
+    "helpWater": 45,
+    "helpWeed": 51,
+    "helpBug": 46,
     "taskClaim": 0,
-    "sell": 3,
+    "sell": 0,
     "upgrade": 0,
     "levelUp": 0
   },
   "initialState": {
-    "gold": 188927539,
-    "exp": 27131326,
-    "coupon": 1794
+    "gold": 11625052,
+    "exp": 3422413,
+    "coupon": 2387
   },
-  "savedAt": 1778772159054
+  "savedAt": 1778771973958
 }
