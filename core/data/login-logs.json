@@ -1,0 +1,22 @@
+{
+  "logs": [
+    {
+      "id": "1778770954775ztk6atg82",
+      "timestamp": 1778770954775,
+      "event": "login_success",
+      "username": "admin",
+      "errorType": null,
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.97 Safari/537.36 SE 2.X MetaSr 1.0"
+    },
+    {
+      "id": "1778771230885scst02glo",
+      "timestamp": 1778771230885,
+      "event": "login_success",
+      "username": "admin",
+      "errorType": null,
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.97 Safari/537.36 SE 2.X MetaSr 1.0"
+    }
+  ]
+}

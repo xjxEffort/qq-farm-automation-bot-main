@@ -1,0 +1,18 @@
+{
+  "accounts": [
+    {
+      "id": "1",
+      "name": "账号1",
+      "code": "92b050d578b26c66b5ead7fd9d49c694",
+      "platform": "qq",
+      "uin": "",
+      "qq": "",
+      "avatar": "",
+      "username": "admin",
+      "createdAt": 1778771102518,
+      "updatedAt": 1778771239577,
+      "nick": "。"
+    }
+  ],
+  "nextId": 2
+}
