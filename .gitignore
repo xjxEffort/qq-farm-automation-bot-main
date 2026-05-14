@@ -9,6 +9,8 @@ build/
 out/
 lib/
 coverage/
+core/date/
+
 
 # 日志
 npm-debug.log*
